@@ -6,7 +6,7 @@ NCPSearch::insert_ncp_search_items(ObjectModel::model()->findAll(), "object", ["
   
 
 // for each model  
-class Poem : Model
+class Object : Model
 {
   function afterSave()  {
     
