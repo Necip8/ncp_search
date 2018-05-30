@@ -53,13 +53,13 @@ Tablename: ncp_index
 
 | UID  | Tablename | Fieldname   | ID   | Token   |
 |------|-----------|-------------|------|---------|
-| 1001 | Poem      | Description | 4711 | if      |
-| 1002 | Poem      | Description | 4711 | you     |
-| 1003 | Poem      | Description | 4711 | can     |
+| 1001 | object    | Description | 4711 | if      |
+| 1002 | object    | Description | 4711 | you     |
+| 1003 | object    | Description | 4711 | can     |
 | ...  |           |             |      |         |
-| 1010 | Poem      | Description | 4712 | I       |
-| 1011 | Poem      | Description | 4712 | have    |
-| 1012 | Poem      | Description | 4712 | slipped |
+| 1010 | object    | Description | 4712 | I       |
+| 1011 | object    | Description | 4712 | have    |
+| 1012 | object    | Description | 4712 | slipped |
 | ...  |           |             |      |         |
 
 We can tokenize any field of any table of our database into the table ncp_index.
@@ -214,8 +214,8 @@ These are my basic observations on this subject. They are the first steps to a p
 
 Thanks to
 ---------
-Translated with www.DeepL.com/Translator
-Elasticsearch: https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch
+* Translated with www.DeepL.com/Translator
+* Elasticsearch: https://www.elastic.co/blog/a-practical-introduction-to-elasticsearch
 
 
 Contact
