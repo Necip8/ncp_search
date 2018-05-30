@@ -97,8 +97,8 @@ Systemtable: fields
 
 | UID | Tablename | Name        | Token_id |
 |-----|-----------|-------------|----------|
-| 122 | poem      | Name        | 1        |
-| 123 | poem      | Description | 2        |
+| 122 | object    | Name        | 1        |
+| 123 | object    | Description | 2        |
 | ... |           |             |          |
 
 Tablename: word
