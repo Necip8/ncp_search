@@ -210,7 +210,7 @@ class Object : Model
 
 Conclusion
 ----------
-These are my basic observations on this subject. They are the first steps to a powerful machine that can index existing tables so that they can be found quickly.
+These are my basic observations on this subject. They are the first steps to a powerful machine that can index existing tables so that informations can be found quickly.
 
 Thanks to
 ---------
