@@ -95,11 +95,11 @@ Our ncp_index table looks now so:
 
 Systemtable: fields
 
-| UID | Tablename | Name        | Token_id |
-|-----|-----------|-------------|----------|
-| 122 | object    | Name        | 1        |
-| 123 | object    | Description | 2        |
-| ... |           |             |          |
+| UID | Tablename | Name        |
+|-----|-----------|-------------|
+| 122 | object    | Name        |
+| 123 | object    | Description |
+| ... |           |             |
 
 Tablename: word
 
